@@ -1,0 +1,18 @@
+h1 {
+  font-family: Baskerville Old Face, Serif;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 27.5px;
+  padding:20px;
+}
+
+p {
+  padding:20px; 
+  display:inline-block;
+}
+
+a {
+  display:inline-block;
+  padding: 20px;
+}
+
