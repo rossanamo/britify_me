@@ -1,3 +1,7 @@
+body {
+  background-color: #E2E230;
+}
+
 h1 {
   font-family: Baskerville Old Face, Serif;
   font-size: 25px;
@@ -16,3 +20,6 @@ a {
   padding: 20px;
 }
 
+.main_item {
+  text-align: center;
+}
